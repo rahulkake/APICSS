@@ -1,0 +1,84 @@
+Case-I: QnA
+*************
+
+(assignment) adimulamramkumar-mac:Assignment-2 adimulamramkumar$ python 2023MT03013.py 
+Hello! I am your chatbot. Ask me anything, or type 'exit' to quit.
+You: What is the Match venue?
+Bot:  The match venue for the India vs. Sri Lanka 2011 ICC Cricket World Cup Final was Wankhede Stadium, located in Mumbai, India.
+You: When was the match played?
+Bot:  The match was played on April 2, 2011.
+You: What are the teams that played this match?
+Bot:  The teams that played the match were India and Sri Lanka. This historic encounter took place during the ICC Cricket World Cup 2011, where India emerged victorious against Sri Lanka.
+You: What is the Indian Team Lineup?
+Bot:  The Indian Team Lineup for the ICC Cricket World Cup 2011 Final against Sri Lanka was as follows:
+
+1. Virender Sehwag
+
+2. Sachin Tendulkar
+
+3. Gautam Gambhir
+
+4. Virat Kohli
+
+5. MS Dhoni (Captain & Wicketkeeper)
+
+6. Yuvraj Singh
+
+7. Suresh Raina
+
+8. Harbhajan Singh
+
+9. Zaheer Khan
+
+10. Munaf Patel
+
+11. Sreesanth
+
+
+This lineup was instrumental in India's victory in the final, with key performances from players like Gautam Gambhir, Virat Kohli, and MS Dhoni, who played a pivotal role in the chase and ultimately won the match for India.
+You: Who won the toss and what decision was made?
+Bot:  Sri Lanka won the toss in the ICC Cricket World Cup 2011 final. They elected to bat first, aiming to set a challenging target for India to chase. This strategic decision was based on their belief that they could score enough runs to secure a victory before India got an opportunity to bowl. However, India managed to chase down the target and won the match by 6 wickets with 10 balls to spare.
+You: What was the Srilanka's score?
+Bot:  Sri Lanka's score was 274 runs for the loss of 6 wickets in their allotted 50 overs during the ICC Cricket World Cup 2011 Final against India.
+You: Who played key role in Srilanka's innings?
+Bot:  Mahela Jayawardene played a key role in Sri Lanka's innings during the ICC Cricket World Cup 2011 Final. He scored an unbeaten 103 runs off 88 balls, which was instrumental in setting a challenging target for India. His performance anchored the Sri Lankan batting line-up and provided the foundation for their total score of 274 runs. Jayawardene's contribution was pivotal, as it set the stage for the intense chase that India had to undertake in the second innings. His batting prowess and leadership on the field were significant factors in Sri Lanka's efforts to win the match.
+You: Who played key role in chasing?
+Bot:  The key players in India's chase during the historic match against Sri Lanka in the 2011 ICC Cricket World Cup Final were Gautam Gambhir and MS Dhoni. Gautam Gambhir played a resilient knock of 97 off 122 balls, which was crucial in setting the foundation for India's chase. When Gambhir was dismissed, MS Dhoni, who was promoted up the order, took charge with an unbeaten 91 off 79 balls. Dhoni's captaincy and batting prowess were instrumental in securing India's victory. His memorable six over long-on was particularly iconic and is often highlighted as a defining moment of the match. Dhoni's performance not only helped India win the game but also solidified his status as a legendary figure in Indian cricket.
+You: What was the end result?
+Bot:  The end result of the India vs. Sri Lanka 2011 ICC Cricket World Cup Final was that India won the match by 6 wickets with 10 balls to spare.
+You: Who was the player of the match?
+Bot:  The player of the match was MS Dhoni, who scored an unbeaten 91 runs off 79 balls during the chase in the historic ICC Cricket World Cup 2011 final against Sri Lanka. His performance was pivotal in securing the victory for India.
+You: who was the player of the tournament?
+Bot:  The player of the tournament in the India vs. Sri Lanka 2011 ICC Cricket World Cup Final was Yuvraj Singh. He delivered an outstanding performance throughout the tournament, scoring 362 runs and taking 15 wickets. His all-round contributions were instrumental in India's victory, and he was recognized as the most valuable player of the event.
+You: Who retired on the same day?
+Bot:  Sachin Tendulkar retired from international cricket on the same day as the India vs. Sri Lanka 2011 ICC Cricket World Cup Final, which was April 2, 2011. This marked the end of an era for Indian cricket as Tendulkar was one of the most celebrated and successful cricketers in the history of the sport. His retirement was met with immense fanfare and a sense of nostalgia, as he had been a key figure in India's cricketing successes, including their World Cup victories in 1983 and 2011.
+You: 
+
+Case-II: Summarization
+*************************
+(assignment) adimulamramkumar-mac:Assignment-2 adimulamramkumar$ python Summarization.py 
+[{'summary_text': "The India vs. Sri Lanka 2011 ICC Cricket World Cup Final (not 2013) was a historic match that took place on April 2, 2011, at Wankhede Stadium in Mumbai, India. Mahela Jayawardene played an incredible innings, scoring an unbeaten 103 off 88 balls, anchoring Sri Lanka’s innings and setting a strong target for India. MS Dhoni played a memorable captain's innings, scored an unbeaten 91 off 79 balls, and sealed India’'s victory with a now-iconic six over long-on. India won by 6 wickets with 10 balls to spare, their second World Cup title after 28 years."}]
+(assignment) adimulamramkumar-mac:Assignment-2 adimulamramkumar$ 
+
+
+case-III: 
+
+
+Current status: running
+FineTuningJob(id='ftjob-d3toCEJhl8D07TdvYuKHwbCm', created_at=1730459161, error=Error(code=None, message=None, param=None), fine_tuned_model=None, finished_at=None, hyperparameters=Hyperparameters(n_epochs=4, batch_size=1, learning_rate_multiplier=1.8), model='gpt-4o-mini-2024-07-18', object='fine_tuning.job', organization_id='org-suvOi7bveaC26pBDbHNwTqWy', result_files=[], seed=1919144523, status='running', trained_tokens=None, training_file='file-Dc6kq4GiF6dbPxPJb2EnFsyU', validation_file=None, estimated_finish=None, integrations=[], user_provided_suffix=None)
+Current status: running
+FineTuningJob(id='ftjob-d3toCEJhl8D07TdvYuKHwbCm', created_at=1730459161, error=Error(code=None, message=None, param=None), fine_tuned_model=None, finished_at=None, hyperparameters=Hyperparameters(n_epochs=4, batch_size=1, learning_rate_multiplier=1.8), model='gpt-4o-mini-2024-07-18', object='fine_tuning.job', organization_id='org-suvOi7bveaC26pBDbHNwTqWy', result_files=[], seed=1919144523, status='running', trained_tokens=None, training_file='file-Dc6kq4GiF6dbPxPJb2EnFsyU', validation_file=None, estimated_finish=None, integrations=[], user_provided_suffix=None)
+Current status: running
+FineTuningJob(id='ftjob-d3toCEJhl8D07TdvYuKHwbCm', created_at=1730459161, error=Error(code=None, message=None, param=None), fine_tuned_model=None, finished_at=None, hyperparameters=Hyperparameters(n_epochs=4, batch_size=1, learning_rate_multiplier=1.8), model='gpt-4o-mini-2024-07-18', object='fine_tuning.job', organization_id='org-suvOi7bveaC26pBDbHNwTqWy', result_files=[], seed=1919144523, status='running', trained_tokens=None, training_file='file-Dc6kq4GiF6dbPxPJb2EnFsyU', validation_file=None, estimated_finish=1730459411, integrations=[], user_provided_suffix=None)
+Current status: running
+FineTuningJob(id='ftjob-d3toCEJhl8D07TdvYuKHwbCm', created_at=1730459161, error=Error(code=None, message=None, param=None), fine_tuned_model=None, finished_at=None, hyperparameters=Hyperparameters(n_epochs=4, batch_size=1, learning_rate_multiplier=1.8), model='gpt-4o-mini-2024-07-18', object='fine_tuning.job', organization_id='org-suvOi7bveaC26pBDbHNwTqWy', result_files=[], seed=1919144523, status='running', trained_tokens=None, training_file='file-Dc6kq4GiF6dbPxPJb2EnFsyU', validation_file=None, estimated_finish=1730459486, integrations=[], user_provided_suffix=None)
+Current status: running
+FineTuningJob(id='ftjob-d3toCEJhl8D07TdvYuKHwbCm', created_at=1730459161, error=Error(code=None, message=None, param=None), fine_tuned_model=None, finished_at=None, hyperparameters=Hyperparameters(n_epochs=4, batch_size=1, learning_rate_multiplier=1.8), model='gpt-4o-mini-2024-07-18', object='fine_tuning.job', organization_id='org-suvOi7bveaC26pBDbHNwTqWy', result_files=[], seed=1919144523, status='running', trained_tokens=None, training_file='file-Dc6kq4GiF6dbPxPJb2EnFsyU', validation_file=None, estimated_finish=1730459482, integrations=[], user_provided_suffix=None)
+Current status: succeeded
+FineTuningJob(id='ftjob-d3toCEJhl8D07TdvYuKHwbCm', created_at=1730459161, error=Error(code=None, message=None, param=None), fine_tuned_model='ft:gpt-4o-mini-2024-07-18:personal::AOjr3vRY', finished_at=1730459499, hyperparameters=Hyperparameters(n_epochs=4, batch_size=1, learning_rate_multiplier=1.8), model='gpt-4o-mini-2024-07-18', object='fine_tuning.job', organization_id='org-suvOi7bveaC26pBDbHNwTqWy', result_files=['file-Gt8X3aesBW3R1ENhSC8PL31N'], seed=1919144523, status='succeeded', trained_tokens=4100, training_file='file-Dc6kq4GiF6dbPxPJb2EnFsyU', validation_file=None, estimated_finish=None, integrations=[], user_provided_suffix=None)
+
+
+
+ mlflow ui --host 0.0.0.0 --port 5000
+
+
